@@ -1,0 +1,18 @@
+.data {
+    border: 1px solid #050505;
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(21, 18, 18, 0.1);
+  }
+  
+  .data h2 {
+    color: #735151;
+  }
+  
+  .data p {
+    color: #2c5b8d;
+  }
+  
